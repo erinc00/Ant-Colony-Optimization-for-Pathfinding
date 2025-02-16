@@ -127,13 +127,6 @@ Q = 0.0001
 
 ---
 
-## **Future Improvements**
-
-🔹 Implement **A**\* Algorithm\*\* for additional benchmarking.\
-🔹 Integrate a **graphical user interface (GUI)** for better visualization.\
-🔹 Optimize **pheromone decay rate** for improved convergence speed.
-
----
 
 ## **Author**
 
